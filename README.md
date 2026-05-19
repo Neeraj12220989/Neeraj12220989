@@ -1,6 +1,6 @@
 ![logo](https://github.com/Neeraj12220989/Neeraj12220989/blob/main/5927911.gif)
 <h1 align="center">Hi 👋, I'm Neeraj Mahato</h1>
-<h3 align="center">3rd Year Computer Science Student</h3>
+<h3 align="center">4th Year Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj12220989&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj12220989" /> </p>
 <img align="right" alt="gif" width="400" src="https://www.bing.com/th/id/OGC.bae3ef5cd9e57241057b5e24886f42ca?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f41%2f7e%2fbe%2f417ebee986aec41629278b1e04cfbfe9.gif&ehk=m8BzFpLjDj0hTu%2bSc0GgXjnByFEbANZh0HJzoeb7yqc%3d">
